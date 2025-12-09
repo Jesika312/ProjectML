@@ -355,11 +355,7 @@ OUTPUT_DIR = "test_outputs"
 
 ## 🔍 Troubleshooting
 
-### Masalah: `ModuleNotFoundError: No module named 'sklearn'`
-**Solusi**: Install scikit-learn
-```bash
-pip install scikit-learn
-```
+
 
 ### Masalah: `FileNotFoundError: [Errno 2] No such file or directory`
 **Solusi**: Pastikan file input ada di lokasi yang benar. Cek konfigurasi di awal script.
