@@ -106,7 +106,6 @@ pip install pandas numpy scikit-learn joblib matplotlib seaborn wordcloud unidec
 
 **Penjelasan package:**
 - `pandas`, `numpy`: Data manipulation
-- `scikit-learn`: ML algorithms (SVM, TF-IDF, metrics)
 - `joblib`: Model serialization
 - `matplotlib`, `seaborn`: Plotting
 - `wordcloud`: Visualisasi word frequency
