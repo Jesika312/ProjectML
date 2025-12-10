@@ -1,5 +1,7 @@
-# ML Deteksi Komentar “Judol” YouTube
+Elisabeth J. Jerau - 71220899  
+Hermanus R. Horo - 7122082  
 
+# ML Deteksi Komentar “Judol” YouTube
 Proyek ini melakukan deteksi komentar promosi judi online (“judol”) pada YouTube melalui pipeline pra-pemrosesan, eksplorasi data, dan pelatihan model menggunakan kumpulan data gabungan dari YouTube dan Kaggle.
 
 ## Struktur Workspace
