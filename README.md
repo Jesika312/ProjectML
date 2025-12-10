@@ -38,10 +38,4 @@ Contoh baris:
    - Kaggle-only: [train_kaggle.ipynb](train_kaggle.ipynb) dengan sumber [`dataset/datasetKaggle.csv`](dataset/datasetKaggle.csv).
    - Gabungan: [train_kaggle_YT.IPYNB](train_kaggle_YT.IPYNB) dengan sumber utama [`dataset/train_final.csv`](dataset/train_final.csv) dan data YouTube bersih [`dataset/dataset_youtube_clean.csv`](dataset/dataset_youtube_clean.csv).
 
-## Menjalankan di VS Code
-- Buka notebook dan gunakan “Run All” di tiap notebook sesuai urutan Alur Kerja.
-- Pantau log di Output Pane dan gunakan Integrated Terminal untuk menjalankan perintah tambahan bila diperlukan.
-
-## Catatan Penting
-- Pastikan konsistensi label antara file: mis. cek sampel di [`dataset/train_clean_label.csv`](dataset/train_clean_label.csv) dan [`dataset/train_final.csv`](dataset/train_final.csv).
-- Banyak kata kunci “judol” bersifat variasi/obfuscation (contoh: “alexis17”, “pulau777”, “weton88”, “mandalika77”, “dora77”, “pluto88”). Model perlu fitur normalisasi untuk mendeteksi variasi ini dari data pra-pemrosesan di [`dataset/dataset_preprocessed.csv`](dataset/dataset_preprocessed.csv).
+## Kesimpulan  
