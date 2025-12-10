@@ -35,7 +35,6 @@ Contoh baris:
 4. Pelatihan:
    - Kaggle-only: [train_kaggle.ipynb](train_kaggle.ipynb) dengan sumber [`dataset/datasetKaggle.csv`](dataset/datasetKaggle.csv).
    - Gabungan: [train_kaggle_YT.IPYNB](train_kaggle_YT.IPYNB) dengan sumber utama [`dataset/train_final.csv`](dataset/train_final.csv) dan data YouTube bersih [`dataset/dataset_youtube_clean.csv`](dataset/dataset_youtube_clean.csv).
-5. Evaluasi dan uji cepat: [tess.ipynb](tess.ipynb).
 
 ## Menjalankan di VS Code
 - Buka notebook dan gunakan “Run All” di tiap notebook sesuai urutan Alur Kerja.
